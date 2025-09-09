@@ -1,5 +1,5 @@
  import React from 'react'
-import bg from ".../assets/authBg.png"
+import bg from ".../assets/authBg.JPG"
 import { IoEye } from "react-icons/io5";
 import { IoEyeOff } from "react-icons/io5";
  function SignUp() {
